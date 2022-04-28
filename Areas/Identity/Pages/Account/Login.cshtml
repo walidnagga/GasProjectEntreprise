@@ -1,0 +1,54 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Connecter";
+}<div class="row">
+<div class="col-4"></div>
+        <div class="card row col-4"> 
+            <div class="card-header card text-center">Se connecter à GPM </div>
+                <form id="account" method="post">  
+                            <div class="container-fluid mx-auto col-4"><img src="/img/steg.png"/></div>
+                            <hr />
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-floating">
+                                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
+                                <label asp-for="Input.Email" class="form-label"></label>
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-floating">
+                                <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" />
+                                <label asp-for="Input.Password" class="form-label"></label>
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+                            <div>
+                                <div class="checkbox">
+                                    <label asp-for="Input.RememberMe" class="form-label">
+                                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                                    </label>
+                                </div>
+                            </div>
+                            <div>
+                                <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Connecter</button>
+                            </div>
+                            <div>
+                                <p>
+                                    <a id="forgot-password" asp-page="./ForgotPassword">Mot de passe oublié ?</a>
+                                </p>
+                                <p>
+                                    <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Nouveau Utilisateur</a>
+                                </p>
+                                <p>
+                                    <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Renvoyer un email de confirmation</a>
+                                </p>
+                            </div>
+                </form>
+            </div>
+<div class="col-4"></div>        
+ </div>    
+    
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
