@@ -195,6 +195,62 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/projects/GasProjectEntreprise/Pages/Templates/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXDQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/blank.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXGJsYW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXGJ1dHRvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXGNhcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXGNoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/forgot-password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXGZvcmdvdC1wYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXGxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXHJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/tables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXHRhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/utilities-animation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXHV0aWxpdGllcy1hbmltYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/utilities-border.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXHV0aWxpdGllcy1ib3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/utilities-color.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXHV0aWxpdGllcy1jb2xvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/GasProjectEntreprise/Pages/Templates/utilities-other.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXHV0aWxpdGllcy1vdGhlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/projects/GasProjectEntreprise/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
